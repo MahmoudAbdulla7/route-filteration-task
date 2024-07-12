@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+/* .chartIcon */
+
+@media (max-width: 600px) {
+
+    .chartIcon {
+      width: 70% !important;
+    }
+
+  }
+  
